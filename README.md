@@ -6,10 +6,11 @@
 
 ## Components:
 <br>
-- Teensy 3.6 development board: https://www.sparkfun.com/products/14057
-- I2S MEMS Microphone (SPH0645LM4H): https://www.adafruit.com/product/3421
-- I2S Audio Amplifier (Class D - 3W): https://www.adafruit.com/product/3006
-- 3W 4 Ohm Speaker: https://www.adafruit.com/product/1314
-- RGB Matrix-Scan Buttonpad (4x4): https://learn.sparkfun.com/tutorials/button-pad-hookup-guide (Various components listed in this link)
-- Various Resistors and LEDs
+
+* Teensy 3.6 development board: https://www.sparkfun.com/products/14057
+* I2S MEMS Microphone (SPH0645LM4H): https://www.adafruit.com/product/3421
+* I2S Audio Amplifier (Class D - 3W): https://www.adafruit.com/product/3006
+* 3W 4 Ohm Speaker: https://www.adafruit.com/product/1314
+* RGB Matrix-Scan Buttonpad (4x4): https://learn.sparkfun.com/tutorials/button-pad-hookup-guide (Various components listed in this link)
+* Various Resistors and LEDs
 
