@@ -1,12 +1,9 @@
 # SoundBoard
-<br>
 
-## Summary:
+### Summary:
  Teensy 3.6 based Soundboard with 2 recordable sound effects, 11 programmable sound effects, and 1 programmable FIR filter. The final code for the project is located in the file sound_board. All other files are code to test different hardware components to this projects.
-<br>
 
-## Components:
-<br>
+### Components:
 
 * Teensy 3.6 development board: https://www.sparkfun.com/products/14057
 * I2S MEMS Microphone (SPH0645LM4H): https://www.adafruit.com/product/3421
