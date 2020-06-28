@@ -9,6 +9,6 @@
 * I2S MEMS Microphone (SPH0645LM4H): https://www.adafruit.com/product/3421
 * I2S Audio Amplifier (Class D - 3W): https://www.adafruit.com/product/3006
 * 3W 4 Ohm Speaker: https://www.adafruit.com/product/1314
-* RGB Matrix-Scan Buttonpad (4x4): https://learn.sparkfun.com/tutorials/button-pad-hookup-guide (Various components listed in this link)
+* RGB Matrix-Scan Buttonpad (4x4): https://learn.sparkfun.com/tutorials/button-pad-hookup-guide (Multiple components for the buttonpad listed in this link)
 * Various resistors, LEDs, potentiometers, and diodes
 
