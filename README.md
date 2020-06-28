@@ -1,5 +1,6 @@
 # SoundBoard
 <br>
+
 ## Summary:
  Teensy 3.6 based Soundboard with 2 recordable sound effects, 11 programmable sound effects, and 1 programmable FIR filter. The final code for the project is located in the file sound_board. All other files are code to test different hardware components to this projects.
 <br>
