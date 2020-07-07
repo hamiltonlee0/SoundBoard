@@ -18,5 +18,7 @@
 * RGB Matrix-Scan Buttonpad (4x4): https://learn.sparkfun.com/tutorials/button-pad-hookup-guide (Multiple components for the buttonpad listed in this link)
 * Various resistors, LEDs, potentiometers, diodes, etc...
 
-### System Diagram/Schematic
+### Schematic:
+
+![ColumnList](images/SoundBoardSch.PNG)
 
